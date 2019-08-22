@@ -1,4 +1,4 @@
-
+// Test comment
 
 Spaceship nave;
 Star star_handler = new Star();
