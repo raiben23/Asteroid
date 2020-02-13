@@ -1,2 +1,2 @@
 # Asteroid
- Code example of Asteroid game on Processing
+ Code example of the Asteroid game on Processing
